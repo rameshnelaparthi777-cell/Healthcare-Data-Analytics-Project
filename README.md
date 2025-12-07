@@ -77,7 +77,7 @@ Hospital Admission Insights
 
 Screenshots included in PPT.
 ## DASHBOARD
-"C:\Users\LENOVO\OneDrive\画像\power bi.png"
+!["C:\Users\LENOVO\OneDrive\画像\power bi.png"](https://github.com/user-attachments/assets/a729b093-5d37-414b-88af-1bd9b8c94ef8)
 
 ## 📄 Files Included
 
