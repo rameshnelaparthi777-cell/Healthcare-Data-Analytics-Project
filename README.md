@@ -1,4 +1,4 @@
-SQL + Power BI Data Analytics Project
+#SQL + Power BI Data Analytics Project
 
 By Nelaparthi Ramesh
 
