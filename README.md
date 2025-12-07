@@ -80,7 +80,9 @@ Screenshots included in PPT.
 
 Below is the snapshot of the interactive Power BI dashboard:
 
-[Power BI Dashboard](images/power bi.png)
+![Power BI Dashboard](images/power_bi.png)
+
+
 
 ## 📄 Files Included
 
