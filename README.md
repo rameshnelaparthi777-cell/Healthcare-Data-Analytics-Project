@@ -76,12 +76,6 @@ Medical Condition Trends
 Hospital Admission Insights
 
 Screenshots included in PPT.
-## 📊 Dashboard Preview
-
-Below is the snapshot of the Power BI dashboard:
-
-![Dashboard](https://github.com/user-attachments/assets/a729b093-5d37-414b-88af-1bd9b8c94ef8)
-
 
 ## 📄 Files Included
 
