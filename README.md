@@ -76,6 +76,11 @@ Medical Condition Trends
 Hospital Admission Insights
 
 Screenshots included in PPT.
+## 📊 Power BI Dashboard
+
+Below is the snapshot of the interactive Power BI dashboard:
+
+[Power BI Dashboard](images/power bi.png)
 
 ## 📄 Files Included
 
@@ -96,6 +101,6 @@ Screenshots included in PPT.
 
 ### Email: rameshnelaparthi777@gmail.com
 
-# 🎉 Thank you for viewing my project!
+#  Thank you for viewing my project!
 
 Feel free to ⭐ star the repository or reach out for collaboration.
