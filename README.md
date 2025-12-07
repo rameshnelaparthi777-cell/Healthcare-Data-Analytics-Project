@@ -76,8 +76,6 @@ Medical Condition Trends
 Hospital Admission Insights
 
 Screenshots included in PPT.
-## DASHBOARD
-![Dashboard](./images/power_bi.png)
 
 ## 📄 Files Included
 
