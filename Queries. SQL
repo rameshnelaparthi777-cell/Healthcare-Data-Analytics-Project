@@ -1,0 +1,31 @@
+-- Total Patient Count
+SELECT COUNT(DISTINCT Patient_ID) AS Total_Patient
+FROM healthcare_dataset;
+
+-- Top 5 Medical Conditions
+SELECT Medical_Condition, COUNT(*) AS Patient_Count
+FROM healthcare_dataset
+GROUP BY Medical_Condition
+ORDER BY Patient_Count DESC
+LIMIT 5;
+
+-- Top 5 Insurance Providers
+SELECT Insurance_Provider, COUNT(*) AS Total_Patients
+FROM healthcare_dataset
+GROUP BY Insurance_Provider
+ORDER BY Total_Patients DESC
+LIMIT 5;
+
+-- Average Billing Amount
+SELECT ROUND(AVG(Billing_Amount), 2) AS Avg_Billing
+FROM healthcare_dataset;
+
+-- Abnormal Test Result Percentage
+SELECT ROUND(
+    (SUM(CASE WHEN Test_Result = 'Abnormal' THEN 1 ELSE 0 END) * 100.0) / COUNT(*), 2
+) AS Abnormal_Percentage
+FROM healthcare_dataset;
+
+-- Average Length of Stay
+SELECT ROUND(AVG(Length_of_Stay), 0) AS Avg_Length_Stay
+FROM healthcare_dataset;
